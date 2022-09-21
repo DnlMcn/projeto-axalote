@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class FishingController : MonoBehaviour
 {
-
     [SerializeField] private Transform playerTransform;
     [SerializeField] private Transform cameraTransform;
     private float playerHeight;
